@@ -28,16 +28,6 @@ A clean, modern, and fast Expense Tracking application. Designed for users who w
 
 ---
 
-## 📸 Screenshots
-
-| Home Screen | Add Expense | Spending Charts |
-| :---: | :---: | :---: |
-| ![Home](https://via.placeholder.com/200x400?text=Home+UI) | ![Add](https://via.placeholder.com/200x400?text=Add+Expense) | ![Chart](https://via.placeholder.com/200x400?text=Analytics) |
-
-> *Tip: Replace these placeholders with actual screenshots from your `assets/` folder!*
-
----
-
 ## 📥 Installation & Setup
 
 1. **Clone the repository:**
