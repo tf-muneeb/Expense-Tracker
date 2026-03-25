@@ -96,7 +96,7 @@ class SettingsScreen extends StatelessWidget {
 
           Center(
             child: Text(
-              'Expense Tracker v1.0.0\nBuilt by Muneeb Mustafa and Ashar Raza',
+              'Expense Tracker v1.0.0\nBuilt by Muneeb Mustafa',
               textAlign: TextAlign.center,
               style: TextStyle(
                 fontSize: 13,
