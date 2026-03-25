@@ -1,16 +1,35 @@
-# expense_tracker
+# 📊 Expense Tracker App (Flutter)
 
-A new Flutter project.
+[![Flutter Version](https://img.shields.io/badge/Flutter-v3.0+-02569B?logo=flutter)](https://flutter.dev)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Getting Started
+A clean, modern, and fast Expense Tracking application. Designed for users who want to manage their finances locally with speed and privacy.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Key Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **💸 Expense Management**: Add, categorize, and delete expenses with ease.
+- **📦 Offline First**: Uses **Hive** (NoSQL) for high-speed local data persistence.
+- **🔄 Reactive UI**: State management via **Provider** ensures real-time updates.
+- **📊 Visual Analytics**: Beautifully rendered weekly spending charts.
+- **🎨 Modern Design**: Responsive layout with smooth transitions and a minimal UI.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠 Tech Stack
+
+| Technology | Purpose |
+| :--- | :--- |
+| **Flutter** | Cross-platform UI Framework |
+| **Hive** | Local NoSQL Database |
+| **Provider** | State Management |
+| **FL Chart** | Data Visualization |
+
+---
+
+## 📥 Installation & Setup
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/your-username/expense-tracker-flutter.git](https://github.com/your-username/expense-tracker-flutter.git)
